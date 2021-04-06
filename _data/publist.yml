@@ -24,6 +24,32 @@
     url: https://doi.org/10.3390/cancers13030476
     display: MDPI Cancers
 
+- title: "SARS-CoV-2-Varianten: Evolution im Zeitraffer"
+  authors: Djin-Ye Oh, Stefan Kröger, Marianne Wedde, Felix Hartkopf, Matthias Budt, Janna Seifried, Aleksandar Radonic, Essia Belarbi, <b>Martin Hölzer</b>, Sindy Böttcher, Grit Schubert, Sandra Kaiser *et al*.
+  year: 2021
+  preprint: 0
+  submitted: 0
+  book: 0
+  supp: 0
+  acknow: 0
+  section: 3
+  link:
+    url: https://www.aerzteblatt.de/int/article.asp?id=218112
+    display: Dtsch Arztebl International
+
+- title: "Evidence for the existence of a new genus *Chlamydiifrater* gen. nov. inside the family *Chlamydiaceae* with two new species isolated from flamingo (*Phoenicopterus roseus*): *Chlamydiifrater phoenicopteri* sp. nov. and *Chlamydiifrater volucris* sp. nov."
+  authors: F Vorimore, M Hölzer, EM Liebler-Tenorio, LM Barf, S Delannoy, M Vittecoq, R Wedlarski, A L{\'e}cu, S Scharf, Y Blanchard, P Fach, RC Hsia *et al*.
+  year: 2021
+  preprint: 0
+  submitted: 0
+  book: 0
+  supp: https://osf.io/d8yk3/
+  acknow: 0
+  section: 2
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0723202021000230
+    display: Systematic and Applied Microbiology
+
 - title: "CovRadar: Continuously tracking and filtering SARS-CoV-2 mutations for molecular surveillance."
   authors: Alice Wittig, Fabio Miranda, Ming Tang, <b>Martin Hölzer</b>, Bernhard Renard, Stephan Fuchs
   year: 2021
@@ -49,6 +75,19 @@
   link:
     url: https://doi.org/10.1101/2021.01.25.21250447
     display: medRxiv
+
+- title: "Metagenomics workflow for hybrid assembly, differential coverage binning, transcriptomics and pathway analysis (MUFFIN)."
+  authors: Renaud Van Damme, <b>Martin Hölzer</b>, Adrian Viehweger, Müller Bettina, Erik Bongcam-Rudloff, Christian Brandt
+  year: 2021
+  preprint: 0
+  submitted: 0
+  book: 0
+  supp: https://github.com/RVanDamme/MUFFIN
+  acknow: 0
+  section: 4
+  link:
+    url: https://doi.org/10.1371/journal.pcbi.1008716
+    display: Plos Comp Biol
 
 - title: "Virus Bioinformatics"
   authors: Nikolaos Pappas, Simon Roux, <b>Martin Hölzer</b>, Kevin Lamkiewicz, Florian Mock, Manja Marz, Bas E Dutilh
@@ -191,19 +230,6 @@
   section: 4
   link:
     url: https://doi.org/10.1101/2020.07.24.219899
-    display: bioRxiv
-
-- title: "Metagenomics workflow for hybrid assembly, differential coverage binning, transcriptomics and pathway analysis (MUFFIN)."
-  authors: Renaud Van Damme, <b>Martin Hölzer</b>, Adrian Viehweger, Müller Bettina, Erik Bongcam-Rudloff, Christian Brandt
-  year: 2020
-  preprint: 0
-  submitted: 2
-  book: 0
-  supp: https://github.com/RVanDamme/MUFFIN
-  acknow: 0
-  section: 4
-  link:
-    url: https://www.biorxiv.org/content/10.1101/2020.02.08.939843v1
     display: bioRxiv
 
 - title: "*Chlamydia buteonis*, a new *Chlamydia* species isolated from a red-shouldered hawk."
